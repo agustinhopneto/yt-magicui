@@ -24,6 +24,7 @@
   },
   "devDependencies": {
     "@abasync/eslint-config": "^1.1.0",
+    "@biomejs/biome": "^1.8.3",
     "@types/canvas-confetti": "^1.6.4",
     "@types/node": "^20",
     "@types/react": "^18",
