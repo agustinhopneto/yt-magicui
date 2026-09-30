@@ -1,36 +1,85 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
 
-## Getting Started
+# ✨ Interfaces Avançadas com Tailwind + shadcn/ui + Magic UI
 
-First, run the development server:
+**Animações e efeitos incríveis com os componentes do Magic UI.**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+[![YouTube](https://img.shields.io/badge/Assista_no_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=CA-D2RMawq0)
+[![DevClub PRO](https://img.shields.io/badge/Canal-DevClub_PRO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevClubPRO)
+
+</div>
+
+---
+
+## 🎬 Vídeo
+
+Este repositório acompanha o vídeo do canal **[DevClub PRO](https://www.youtube.com/@DevClubPRO)**:
+
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=CA-D2RMawq0" title="Interfaces Avançadas com Tailwind + ShadcnUI + MagicUI">
+  <img src="https://img.youtube.com/vi/CA-D2RMawq0/maxresdefault.jpg" alt="Interfaces Avançadas com Tailwind + ShadcnUI + MagicUI" width="720" />
+</a>
+
+**▶️ [Interfaces Avançadas com Tailwind + ShadcnUI + MagicUI](https://www.youtube.com/watch?v=CA-D2RMawq0)**
+
+</div>
+
+## 📖 Sobre
+
+Um showcase dos componentes do **[Magic UI](https://magicui.design/)**, uma coleção de componentes animados construída sobre **Tailwind CSS**, **shadcn/ui** e **Framer Motion**, aplicados em um projeto **Next.js**.
+
+## 🎯 O que você vai aprender
+
+- Configurar shadcn/ui e Magic UI em um projeto Next.js
+- **Blur In**: texto que surge com efeito de desfoque
+- **Meteors**: chuva de meteoros animada no fundo
+- **Shine Border**: borda com brilho animado
+- **Confetti Button**: botão que dispara confetes 🎉
+- **Shiny Button**: botão com efeito de brilho
+
+## 🚀 Como rodar
+
+> Pré-requisito: [Node.js](https://nodejs.org/) 18+
 
 ```bash
+# 1. Clone o repositório
+git clone https://github.com/agustinhopneto/yt-magicui.git
+cd yt-magicui
+
+# 2. Instale as dependências
+npm install
+
+# 3. Rode o projeto
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Acesse **http://localhost:3000** 🎉
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Tecnologias
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+<div align="center">
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Curtiu? Deixa um ⭐ no repositório e se inscreva no canal!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+[![Inscreva-se](https://img.shields.io/badge/Inscreva--se-DevClub_PRO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevClubPRO?sub_confirmation=1)
 
-## Deploy on Vercel
+Feito com 💙 por **[Agustinho Neto](https://github.com/agustinhopneto)**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+</div>
