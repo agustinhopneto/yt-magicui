@@ -1,8 +1,8 @@
 <div align="center">
 
-# ✨ Interfaces Avançadas com Tailwind + shadcn/ui + Magic UI
+# ✨ Advanced Interfaces with Tailwind + shadcn/ui + Magic UI
 
-**Animações e efeitos incríveis com os componentes do Magic UI.**
+**Stunning animations and effects with Magic UI components.**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -11,59 +11,61 @@
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-[![YouTube](https://img.shields.io/badge/Assista_no_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=CA-D2RMawq0)
-[![DevClub PRO](https://img.shields.io/badge/Canal-DevClub_PRO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevClubPRO)
+[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=CA-D2RMawq0)
+[![DevClub PRO](https://img.shields.io/badge/Channel-DevClub_PRO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevClubPRO)
 
 </div>
 
 ---
 
-## 🎬 Vídeo
+## 🎬 Video
 
-Este repositório acompanha o vídeo do canal **[DevClub PRO](https://www.youtube.com/@DevClubPRO)**:
+This repository accompanies a video from the **[DevClub PRO](https://www.youtube.com/@DevClubPRO)** channel:
 
 <div align="center">
 
-<a href="https://www.youtube.com/watch?v=CA-D2RMawq0" title="Interfaces Avançadas com Tailwind + ShadcnUI + MagicUI">
-  <img src="https://img.youtube.com/vi/CA-D2RMawq0/maxresdefault.jpg" alt="Interfaces Avançadas com Tailwind + ShadcnUI + MagicUI" width="720" />
+<a href="https://www.youtube.com/watch?v=CA-D2RMawq0" title="Advanced Interfaces with Tailwind + ShadcnUI + MagicUI">
+  <img src="https://img.youtube.com/vi/CA-D2RMawq0/maxresdefault.jpg" alt="Advanced Interfaces with Tailwind + ShadcnUI + MagicUI" width="720" />
 </a>
 
-**▶️ [Interfaces Avançadas com Tailwind + ShadcnUI + MagicUI](https://www.youtube.com/watch?v=CA-D2RMawq0)**
+**▶️ [Advanced Interfaces with Tailwind + ShadcnUI + MagicUI](https://www.youtube.com/watch?v=CA-D2RMawq0)**
+
+<sub>🇧🇷 The video is in Brazilian Portuguese.</sub>
 
 </div>
 
-## 📖 Sobre
+## 📖 About
 
-Um showcase dos componentes do **[Magic UI](https://magicui.design/)**, uma coleção de componentes animados construída sobre **Tailwind CSS**, **shadcn/ui** e **Framer Motion**, aplicados em um projeto **Next.js**.
+A showcase of **[Magic UI](https://magicui.design/)** components, a collection of animated components built on top of **Tailwind CSS**, **shadcn/ui** and **Framer Motion**, used in a **Next.js** project.
 
-## 🎯 O que você vai aprender
+## 🎯 What you’ll learn
 
-- Configurar shadcn/ui e Magic UI em um projeto Next.js
-- **Blur In**: texto que surge com efeito de desfoque
-- **Meteors**: chuva de meteoros animada no fundo
-- **Shine Border**: borda com brilho animado
-- **Confetti Button**: botão que dispara confetes 🎉
-- **Shiny Button**: botão com efeito de brilho
+- Set up shadcn/ui and Magic UI in a Next.js project
+- **Blur In**: text that appears with a blur effect
+- **Meteors**: an animated meteor shower background
+- **Shine Border**: a border with an animated shine
+- **Confetti Button**: a button that fires confetti 🎉
+- **Shiny Button**: a button with a shine effect
 
-## 🚀 Como rodar
+## 🚀 Getting started
 
-> Pré-requisito: [Node.js](https://nodejs.org/) 18+
+> Prerequisite: [Node.js](https://nodejs.org/) 18+
 
 ```bash
-# 1. Clone o repositório
+# 1. Clone the repository
 git clone https://github.com/agustinhopneto/yt-magicui.git
 cd yt-magicui
 
-# 2. Instale as dependências
+# 2. Install the dependencies
 npm install
 
-# 3. Rode o projeto
+# 3. Run the project
 npm run dev
 ```
 
-Acesse **http://localhost:3000** 🎉
+Open **http://localhost:3000** 🎉
 
-## 🛠️ Tecnologias
+## 🛠️ Tech stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -76,10 +78,10 @@ Acesse **http://localhost:3000** 🎉
 
 <div align="center">
 
-Curtiu? Deixa um ⭐ no repositório e se inscreva no canal!
+Enjoyed it? Leave a ⭐ on the repo and subscribe to the channel!
 
-[![Inscreva-se](https://img.shields.io/badge/Inscreva--se-DevClub_PRO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevClubPRO?sub_confirmation=1)
+[![Subscribe](https://img.shields.io/badge/Subscribe-DevClub_PRO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevClubPRO?sub_confirmation=1)
 
-Feito com 💙 por **[Agustinho Neto](https://github.com/agustinhopneto)**
+Made with 💙 by **[Agustinho Neto](https://github.com/agustinhopneto)**
 
 </div>
